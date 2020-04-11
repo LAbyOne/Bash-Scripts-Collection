@@ -1,8 +1,7 @@
 # Bash Scripts
 
-> My collection of Bash Scripts
-
-My collection of Bash Scripts (either created by me or from other sources) that I can share publicly
+> Collection of Bash Scripts:
+##
 
 Scripts for:
 - [Byzanz screen capturing](screen-capturing)
