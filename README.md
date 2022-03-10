@@ -12,13 +12,13 @@ Scripts for:
 - Finding duplicate files
 - Finding files not owned by a user group
 - generating large temp files
-- [git diff utilities](git-scripts)
 - [grep-examples](grep)
 - [make folders (a through z)](files-folders)
 - move to monitor
 - [Read from file](config)
 - [git examples](git-examples)
 - [git output-parse](git-output-parse)
+- [git diff utilities](git-scripts)
 - Prompt tweaks
 - [Colorize](unix-color-codes)
 - Trackpad mouse on/off hack
