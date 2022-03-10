@@ -17,7 +17,8 @@ Scripts for:
 - [make folders (a through z)](files-folders)
 - move to monitor
 - [Read from file](config)
-- [git utilities](git-examples)-(git-output-parse)
+- [git examples](git-examples)
+- [git output-parse](git-output-parse)
 - Prompt tweaks
 - [Colorize](unix-color-codes)
 - Trackpad mouse on/off hack
