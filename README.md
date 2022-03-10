@@ -6,8 +6,8 @@
 
 
 Scripts for:
-- [Starting with.. bash_bsic1](bash_bsic1)
-- [Starting with.. bash_bsic2](bash_bsic2)
+- [Starting with.. bash_bsic1](bash_basics1)
+- [Starting with.. bash_bsic2](bash_basics2)
 - [Byzanz screen capturing](screen-capturing)
 - Finding duplicate files
 - Finding files not owned by a user group
